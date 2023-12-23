@@ -1,0 +1,11 @@
+```env
+NODE_ENV=development
+
+PORT=8000
+
+DATABASE=
+HOST=
+PASSWORD=
+DATABASE_PORT=
+USER=
+```
