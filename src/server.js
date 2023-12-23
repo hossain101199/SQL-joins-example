@@ -11,6 +11,7 @@ async function main() {
         console.log(`error occurred while connecting. ${error}`);
       } else {
         console.log("connection created with DB successfully");
+        // Uncomment the lines below if you want to execute these functions on startup.
         // createQuery();
         // insertData();
         // dropTables();
